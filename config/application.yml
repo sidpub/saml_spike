@@ -1,0 +1,3 @@
+devise_secret_key: "6a677b5e352aa70440a2d91b6fa1068647d3038bd51acc86dfb295a62059b81200e03ff2d2dce3dd9e37da1ff30c3dae4e9211d09e4254bcdcffc3e91bb29a12"
+saml_base_url: "http://localhost:3000"
+saml_fingerprint: "32:BC:1F:5C:96:3F:EE:F0:CF:4D:1C:49:2F:E8:4D:34:65:7D:1B:01:EE:3F:EB:13:77:21:0B:CC:49:03:1D:42"
