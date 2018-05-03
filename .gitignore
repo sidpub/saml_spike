@@ -31,3 +31,4 @@ bower.json
 node_modules/
 public/assets
 storage
+config/application.yml
